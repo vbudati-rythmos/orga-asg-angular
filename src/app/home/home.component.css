@@ -1,0 +1,12 @@
+mat-grid-tile {
+    background: lightblue;
+  }
+
+  .example-container {
+    height: 250px;
+    overflow: auto;
+  }
+  
+  table {
+    width: 100%;
+  }
